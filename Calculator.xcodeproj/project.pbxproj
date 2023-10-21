@@ -13,6 +13,7 @@
 		0648C3652AE168FC00CD96B8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0648C3632AE168FC00CD96B8 /* Main.storyboard */; };
 		0648C3672AE168FD00CD96B8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0648C3662AE168FD00CD96B8 /* Assets.xcassets */; };
 		0648C36A2AE168FD00CD96B8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0648C3682AE168FD00CD96B8 /* LaunchScreen.storyboard */; };
+		0648C3742AE1785500CD96B8 /* CalculatorModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0648C3732AE1785500CD96B8 /* CalculatorModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		0648C3662AE168FD00CD96B8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0648C3692AE168FD00CD96B8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0648C36B2AE168FD00CD96B8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0648C3732AE1785500CD96B8 /* CalculatorModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				0648C35D2AE168FC00CD96B8 /* AppDelegate.swift */,
 				0648C35F2AE168FC00CD96B8 /* SceneDelegate.swift */,
 				0648C3612AE168FC00CD96B8 /* ViewController.swift */,
+				0648C3732AE1785500CD96B8 /* CalculatorModel.swift */,
 				0648C3632AE168FC00CD96B8 /* Main.storyboard */,
 				0648C3662AE168FD00CD96B8 /* Assets.xcassets */,
 				0648C3682AE168FD00CD96B8 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				0648C3622AE168FC00CD96B8 /* ViewController.swift in Sources */,
 				0648C35E2AE168FC00CD96B8 /* AppDelegate.swift in Sources */,
 				0648C3602AE168FC00CD96B8 /* SceneDelegate.swift in Sources */,
+				0648C3742AE1785500CD96B8 /* CalculatorModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
